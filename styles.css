@@ -1,0 +1,53 @@
+button {
+    border:0;
+    background: darkblue;
+    padding: 14px 28px;
+    font-size: 16px;
+    color: antiquewhite;
+    display: inflex-line;
+    border-radius: 10px;
+  }
+  
+button:hover {background: rgb(233, 170, 54)  ;}
+  
+  Brooklyn {color: white;}
+  Manhattan {color: white;}
+  Queens {color: white;}
+  Bronx {color: white}
+  Staten_Island {color: white;}
+
+input {
+
+    border-radius: 0.4em;
+    padding: 9px;
+    width: 200px;
+    height: 26px;
+    background-color: #e9e4e1;
+    align-self: stretch;
+    color: #131112; 
+    cursor: pointer; 
+}
+  
+input:hover {
+    background-color: rgb(241, 227, 227);
+}
+
+h1 {
+  text-align: center;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.0em;
+    text-transform: capitalize;
+    color: darkblue;
+    text-decoration: double ;
+    text-shadow: 10em;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
